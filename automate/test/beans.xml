@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns="automate-beans" 
+	   xsi:schemaLocation="automate-beans automate-beans.xsd">
+	<bean-scanner resource="com.*.test.*"></bean-scanner>
+	
+	<bean id="22" class=""/>
+	
+	<bean id="22" class="">
+		<method name="m" ref="" value=""></method>
+		<field name="aa" ref=""></field>
+	</bean>
+	
+	<bean id="22" class=""></bean>
+	
+	<bean id="3" class=""></bean>
+</beans>
